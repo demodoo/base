@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <template id="login_layout" inherit_id="web.login_layout" name="Login Layout">
+        <xpath expr="//div[@class='col-md-6 col-md-offset-3 o_database_list']" position="before">
+            <t t-set="disable_footer" t-value="1"/>
+        </xpath>
+    </template>
+</odoo>
