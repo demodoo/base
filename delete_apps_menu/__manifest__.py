@@ -4,7 +4,7 @@
 {
     'name': "Delete Apps Menu",
     'version': '11.0.1.0.0',
-    'summary': """Delete Apps Menu""",
+    'summary': """Delete the Apps menu and its submenus.""",
     'category': 'Tools',
     'author': 'Demodoo IT Solutions',
     'website': "https://demodoo.blogspot.com",
