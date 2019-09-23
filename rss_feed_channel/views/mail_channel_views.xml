@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data>
+
+        <record id="mail_channel_view_form_inherited" model="ir.ui.view">
+            <field name="model">mail.channel</field>
+            <field name="inherit_id" ref="mail.mail_channel_view_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//page[@name='mail_channel_integrations']" position="after">
+                    <page string="RSS Feed">
+                        <group class="o_label_nowrap">
+                            <field name="rss_feed"/>
+                            <field name="max_post"/>
+                        </group>
+                    </page>
+                </xpath>
+            </field>
+        </record>
+
+    </data>
+</odoo>
