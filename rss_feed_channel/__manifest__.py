@@ -4,7 +4,8 @@
 {
     'name': "RSS Feed channel",
     'version': '11.0.1.0.0',
-    'summary': """RSS Feed channel""",
+    'summary': """This module allows to define RSS feeds through discussion channels. This module can be used
+to follow easily in Odoo the latest updates (news, videos, ...) of your favourite RSS feeds.""",
     'category': 'Tools',
     'author': 'Demodoo IT Solutions',
     'website': "https://demodoo.blogspot.com",
