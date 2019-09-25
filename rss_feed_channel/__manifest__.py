@@ -3,14 +3,16 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     'name': "RSS Feed channel",
-    'version': '11.0.1.0.0',
-    'summary': """This module allows to define RSS feeds through discussion channels. This module can be used
-to follow easily in Odoo the latest updates (news, videos, ...) of your favourite RSS feeds.""",
+    'version': '11.0.1.1.0',
+    'summary': """This module allows to define RSS feeds through discussion channels. This module allows 
+    to follow easily in Odoo the latest updates (news, videos, ...) of your favourite RSS feeds. Also, it can 
+    generate leads/opportunities from the feed items.""",
     'category': 'Tools',
     'author': 'Demodoo IT Solutions',
     'website': "https://demodoo.blogspot.com",
     'depends': [
         'mail',
+        'crm'
     ],
     'data': [
         'data/ir_cron.xml',
