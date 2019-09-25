@@ -3,8 +3,9 @@
 
 RSS Feed channel
 ================
-This module allows to define RSS feeds through discussion channels. This module can be used
-to follow easily in Odoo the latest updates (news, videos, ...) of your favourite RSS feeds.
+This module allows to define RSS feeds through discussion channels. This module allows to follow easily in Odoo
+the latest updates (news, videos, ...) of your favourite RSS feeds. Also, it can generate leads/opportunities
+from the feed items.
 
 Installation
 ============

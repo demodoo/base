@@ -15,6 +15,10 @@
                         <group class="o_label_nowrap">
                             <field name="rss_feed"/>
                             <field name="max_post"/>
+                            <field name="contains"/>
+                            <field name="create_lead"/>
+                            <field name="team_id" attrs="{'invisible': [('create_lead', '=', False)]}"/>
+                            <field name="activate"/>
                         </group>
                     </page>
                 </xpath>
