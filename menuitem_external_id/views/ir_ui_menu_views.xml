@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data>
+
+        <record id="ir_ui_menu_view_tree_inherited" model="ir.ui.view">
+            <field name="name">ir.ui.menu.tree</field>
+            <field name="model">ir.ui.menu</field>
+            <field name="inherit_id" ref="base.edit_menu"/>
+            <field name="arch" type="xml">
+                <xpath expr="//tree/field[@name='complete_name']" position="after">
+                    <field name="ext_id"/>
+                </xpath>
+            </field>
+        </record>
+
+        <record id="ir_ui_menu_view_form_inherited" model="ir.ui.view">
+            <field name="name">ir.ui.menu.form</field>
+            <field name="model">ir.ui.menu</field>
+            <field name="inherit_id" ref="base.edit_menu_access"/>
+            <field name="arch" type="xml">
+                <xpath expr="//form/sheet/group/group/field[@name='name']" position="after">
+                    <field name="ext_id" groups="base.group_no_one"/>
+                </xpath>
+            </field>
+        </record>
+
+        <record id="ir_ui_menu_view_search_inherited" model="ir.ui.view">
+            <field name="name">ir.ui.menu.search</field>
+            <field name="model">ir.ui.menu</field>
+            <field name="inherit_id" ref="base.edit_menu_access_search"/>
+            <field name="arch" type="xml">
+                <xpath expr="//search/field[@name='name']" position="after">
+                    <field name="ext_id" filter_domain="[('ext_id','ilike',self)]" string="External Id"/>
+                </xpath>
+            </field>
+        </record>
+
+    </data>
+</odoo>
