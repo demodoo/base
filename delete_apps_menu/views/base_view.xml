@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data>
+
+        <!-- Apps menu -->
+        <delete id="base.menu_management" model="ir.ui.menu"/>
+
+        <!-- Apps submenus -->
+        <delete id="base.menu_view_base_module_update" model="ir.ui.menu"/>
+        <delete id="base.menu_view_base_module_import" model="ir.ui.menu"/>
+        <delete id="base.menu_view_base_module_upgrade" model="ir.ui.menu"/>
+        <delete id="base.menu_module_tree" model="ir.ui.menu"/>
+        <delete id="base.module_mi" model="ir.ui.menu"/>
+        <delete id="base.menu_module_updates" model="ir.ui.menu"/>
+
+    </data>
+</odoo>
