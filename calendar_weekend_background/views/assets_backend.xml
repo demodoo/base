@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data noupdate="0">
+        <template id="calendar_weekend_background_assets_backend"
+                  name="calendar weekend background assets backend" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link href="/calendar_weekend_background/static/src/css/style.css" rel="stylesheet"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>
