@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data noupdate="0">
+        <record id="ABC" model="mail.channel">
+            <field name="name">ABC</field>
+            <field name="description">ABC</field>
+            <field name="rss_feed">https://www.abc.es/rss/feeds/abcPortada.xml</field>
+        </record>
+        <record id="El_Mundo" model="mail.channel">
+            <field name="name">El Mundo</field>
+            <field name="description">El Mundo</field>
+            <field name="rss_feed">http://estaticos.elmundo.es/elmundo/rss/portada.xml</field>
+        </record>
+        <record id="El_Pais" model="mail.channel">
+            <field name="name">El País</field>
+            <field name="description">El País</field>
+            <field name="rss_feed">http://ep00.epimg.net/rss/elpais/portada.xml</field>
+        </record>
+        <record id="La_Razon" model="mail.channel">
+            <field name="name">La Razón</field>
+            <field name="description">La Razón</field>
+            <field name="rss_feed">https://www.larazon.es/rss/espana.xml</field>
+        </record>
+        <record id="RTVE" model="mail.channel">
+            <field name="name">RTVE</field>
+            <field name="description">RTVE</field>
+            <field name="rss_feed">http://www.rtve.es/rss/temas_noticias.xml</field>
+        </record>
+        <record id="La_Sexta" model="mail.channel">
+            <field name="name">La Sexta</field>
+            <field name="description">La Sexta</field>
+            <field name="rss_feed">https://www.lasexta.com/rss/351711.xml</field>
+        </record>
+        <record id="Antena_3" model="mail.channel">
+            <field name="name">Antena 3</field>
+            <field name="description">Antena 3</field>
+            <field name="rss_feed">https://www.antena3.com/rss/348680.xml</field>
+        </record>
+    </data>
+</odoo>
