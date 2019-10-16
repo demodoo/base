@@ -1,0 +1,163 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* world_day_calendar_2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 14:19+0000\n"
+"PO-Revision-Date: 2019-10-11 14:19+0000\n"
+"Last-Translator: Angel M. Ormaechea <demodoo@outlook.es>, 2019\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_25
+msgid "African Liberation Day"
+msgstr "Āfrikas Atbrīvošanas Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_01
+msgid "April Fool's Day"
+msgstr "Muļķu Diena Aprīlī"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_30
+msgid "Earth Hour"
+msgstr "Zemes Stunda"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13b
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_12_13
+msgid "Friday the 13th"
+msgstr "13. piektdiena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_23
+msgid "International Celebrate Bisexuality Day"
+msgstr "Starptautiskā Svinamā Biseksualitātes Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_26
+msgid "International Customs Day"
+msgstr "Starptautiskā Muitas Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_18
+msgid "International Day for Monuments and Sites"
+msgstr "Starptautiskā Pieminekļu un Vietu Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_19
+msgid "International Men's Day"
+msgstr "Starptautiskā Vīriešu Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_12
+msgid "International Nurses Day"
+msgstr "Starptautiskā Medmāsu Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_08_31
+msgid "International Overdose Awareness Day"
+msgstr "Starptautiskā Pārdozēšanas Izpratnes Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_07
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13a
+msgid "International Programmers Day"
+msgstr "Starptautiskā programmētāju Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_01
+msgid "Self-Injury Awareness Day"
+msgstr "Pašsavainošanās Apzināšanās Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_20
+msgid "World Autoimmune / Autoinflammatory Arthritis Day"
+msgstr "Pasaules Autoimūna / Autoinflammatīva Artrīta Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_04
+msgid "World Braille Day"
+msgstr "Pasaules Braila Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_06
+msgid "World Cerebral Palsy Day"
+msgstr "Pasaules Cerebrālās Triekas Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_11
+msgid "World Day of the Sick"
+msgstr "Pasaules Slimo Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_29
+msgid "World Heart Day"
+msgstr "Vispasaules Sirds Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_14
+msgid "World Kidney Day"
+msgstr "Pasaules Nieru Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_27
+msgid "World Leprosy Day"
+msgstr "Pasaules Lepras Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_08
+msgid "World Ovarian Cancer Day"
+msgstr "Pasaules Olnīcu Vēža Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_12
+msgid "World Pneumonia Day"
+msgstr "Pasaules Pneimonijas Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_17
+msgid "World Prematurity Day"
+msgstr "Vispasaules Priekšlaicības Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_20
+msgid "World Religion Day"
+msgstr "Pasaules Reliģijas Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_04
+msgid "World Sexual Health Day"
+msgstr "Pasaules Seksuālās Veselības Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_10
+msgid "World Sight Day"
+msgstr "Pasaules Redzes Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_29
+msgid "World Stroke Day"
+msgstr "Pasaules Insulta Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_01
+msgid "World Vegan Day"
+msgstr "Pasaules Vegānu Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_01
+msgid "World Vegetarian Day"
+msgstr "Pasaules Veģetāriešu Diena"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_02
+msgid "World Wetlands Day"
+msgstr "Pasaules Mitrāju Diena"

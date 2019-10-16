@@ -18,6 +18,9 @@
         'data/ir_cron.xml',
         'views/mail_channel_views.xml',
     ],
+    'qweb': [
+        'static/src/xml/thread.xml'
+    ],
     'license': "AGPL-3",
     'installable': True,
     'auto_install': False,

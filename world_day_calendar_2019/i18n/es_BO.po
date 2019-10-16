@@ -1,0 +1,167 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* world_day_calendar_2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 13:27+0000\n"
+"PO-Revision-Date: 2019-10-09 13:27+0000\n"
+"Last-Translator: Angel M. Ormaechea <demodoo@outlook.es>, 2019\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_25
+msgid "African Liberation Day"
+msgstr "Día de la Liberación Africana"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_01
+msgid "April Fool's Day"
+msgstr "Día de las Bromas de Abril"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_30
+msgid "Earth Hour"
+msgstr "Hora del Planeta"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_02
+msgid "World Wetlands Day"
+msgstr "Día Mundial de los Humedales"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13b
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_12_13
+msgid "Friday the 13th"
+msgstr "Viernes 13"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_23
+msgid "International Celebrate Bisexuality Day"
+msgstr "Día Internacional de Celebración de la Bisexualidad"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_26
+msgid "International Customs Day"
+msgstr "Día Internacional de Aduanas"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_18
+msgid "International Day for Monuments and Sites"
+msgstr "Día Internacional de Monumentos y Sitios"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_19
+msgid "International Men's Day"
+msgstr "Día Internacional del Hombre"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_12
+msgid "International Nurses Day"
+msgstr "Día Internacional de la Enfermera"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_08_31
+msgid "International Overdose Awareness Day"
+msgstr "Día Internacional de Concienciación de la Sobredosis"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13a
+msgid "International Programmers Day"
+msgstr "Día Internacional de los Programadores"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_07
+msgid "International Programmers Day"
+msgstr "Día Internacional de los Programadores"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_01
+msgid "Self-Injury Awareness Day"
+msgstr "Día de Concienciación sobre las Autolesiones"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_20
+msgid "World Autoimmune / Autoinflammatory Arthritis Day"
+msgstr "Día Mundial de la Artritis Autoinmune / Autoinflamatoria"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_04
+msgid "World Braille Day"
+msgstr "Día Mundial del Braille"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_06
+msgid "World Cerebral Palsy Day"
+msgstr "Día Mundial de la Parálisis Cerebral"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_11
+msgid "World Day of the Sick"
+msgstr "Día Mundial de los Enfermos"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_29
+msgid "World Heart Day"
+msgstr "Día Mundial del Corazón"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_14
+msgid "World Kidney Day"
+msgstr "Día Mundial del Riñón"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_27
+msgid "World Leprosy Day"
+msgstr "Día Mundial de la Lepra"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_08
+msgid "World Ovarian Cancer Day"
+msgstr "Día Mundial del Cáncer de Ovario"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_12
+msgid "World Pneumonia Day"
+msgstr "Día Mundial de la Neumonía"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_17
+msgid "World Prematurity Day"
+msgstr "Día Mundial de la Prematuridad"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_20
+msgid "World Religion Day"
+msgstr "Día Mundial de la Religión"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_04
+msgid "World Sexual Health Day"
+msgstr "Día Mundial de la Salud Sexual"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_10
+msgid "World Sight Day"
+msgstr "Día Mundial de la Visión"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_29
+msgid "World Stroke Day"
+msgstr "Día Mundial del Accidente Cerebrovascular"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_01
+msgid "World Vegan Day"
+msgstr "Día Mundial del Vegano"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_01
+msgid "World Vegetarian Day"
+msgstr "Día Mundial del Vegetariano"

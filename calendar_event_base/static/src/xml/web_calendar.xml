@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<templates>
+        <t t-extend="calendar-box">
+            <t t-jquery="div.o_fields" t-operation="replace">
+                <div class="o_fields">
+                    <t t-foreach="widget.displayFields" t-as="name">
+                        <div t-attf-class="o_field_#{name} o_field_type_#{fields[name].type}">
+                            <t t-if="widget.displayFields[name].avatar_field">
+                                <t t-esc="fields[name].string"/>:
+                                <div class="o_calendar_avatars pull-right">
+                                     <t t-foreach="widget.getAvatars(record, name, widget.displayFields[name].avatar_field).slice(0,3)" t-as="image"><t t-raw="image"/></t>
+                                    <span t-if="record[name].length - 3 > 0">+<t t-esc="record[name].length - 3"/></span>
+                                </div>
+                            </t>
+                            <t t-else="">
+                                <t t-if="name=='name'">
+                                    <t t-esc="format(record, name)"/>
+                                </t>
+                                <t t-else="">
+                                    <t t-if="format(record, name)==_t('No records')"/>
+                                    <t t-elif="format(record, name)==_t('1 record')">1 attendee</t>
+                                    <t t-else=""><t t-esc="record[name].length"/> attendees</t>
+                                </t>
+                            </t>
+                        </div>
+                    </t>
+                </div>
+            </t>
+        </t>
+</templates>
