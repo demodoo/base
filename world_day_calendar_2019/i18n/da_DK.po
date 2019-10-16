@@ -1,0 +1,164 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* world_day_calendar_2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 14:16+0000\n"
+"PO-Revision-Date: 2019-10-11 14:16+0000\n"
+"Last-Translator: Angel M. Ormaechea <demodoo@outlook.es>, 2019\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_25
+msgid "African Liberation Day"
+msgstr "Afrikansk Befrielsesdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_01
+msgid "April Fool's Day"
+msgstr "Aprilsnarsdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_30
+msgid "Earth Hour"
+msgstr "Jordtime"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13b
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_12_13
+msgid "Friday the 13th"
+msgstr "Fredag ​​den 13"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_23
+msgid "International Celebrate Bisexuality Day"
+msgstr "International Fejre Biseksualitetsdagen"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_26
+msgid "International Customs Day"
+msgstr "International Tolddag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_18
+msgid "International Day for Monuments and Sites"
+msgstr "International Dag for Monumenter og Steder"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_19
+msgid "International Men's Day"
+msgstr "International Herresdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_12
+msgid "International Nurses Day"
+msgstr "International Sygeplejerske Dag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_08_31
+msgid "International Overdose Awareness Day"
+msgstr "International Dag for Bevidsthed om Overdosering"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_07
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13a
+msgid "International Programmers Day"
+msgstr "Den Internationale Programlæggerdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_01
+msgid "Self-Injury Awareness Day"
+msgstr "Selvbevidsthedsdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_20
+msgid "World Autoimmune / Autoinflammatory Arthritis Day"
+msgstr "Verdens Autoimmune / Autoinflammatoriske Artritis Dag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_04
+msgid "World Braille Day"
+msgstr "Verdens Blindeskriftdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_06
+msgid "World Cerebral Palsy Day"
+msgstr "Verdens Cerebral Parese Dag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_11
+msgid "World Day of the Sick"
+msgstr "Verdens Sygedag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_29
+msgid "World Heart Day"
+msgstr "Verdenshjertedag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_14
+msgid "World Kidney Day"
+msgstr "Verdens nyredag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_27
+msgid "World Leprosy Day"
+msgstr "Verdens Spedalsk Dag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_08
+msgid "World Ovarian Cancer Day"
+msgstr "Verdens Kræftdag i Æggestokkene"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_12
+msgid "World Pneumonia Day"
+msgstr "Verdens Lungebetændelsesdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_17
+msgid "World Prematurity Day"
+msgstr "Verdens Prematuritetsdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_20
+msgid "World Religion Day"
+msgstr "Verdensreligionsdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_04
+msgid "World Sexual Health Day"
+msgstr "Verdens Seksuel Sundhedsdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_10
+msgid "World Sight Day"
+msgstr "Verdenssynsdag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_29
+msgid "World Stroke Day"
+msgstr "Verdens Strejkedag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_01
+msgid "World Vegan Day"
+msgstr "Verdens Veganske Dag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_01
+msgid "World Vegetarian Day"
+msgstr "Verdens Vegetariske Dag"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_02
+msgid "World Wetlands Day"
+msgstr "Verdens Vådområder Dag"
+

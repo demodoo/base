@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data noupdate="0">
+
+        <record id="view_calendar_event_form_popup_inherited" model="ir.ui.view">
+            <field name="name">calendar.event.form</field>
+            <field name="model">calendar.event</field>
+            <field name="inherit_id" ref="calendar.view_calendar_event_form_popup"/>
+            <field name="arch" type="xml">
+
+                <xpath expr="//form/group/group/field[@name='partner_ids']" position="after">
+                    <field name="description" attrs="{'invisible': [('description','=','')]}"/>
+                </xpath>
+
+                <xpath expr="//form/group/group/field[@name='partner_ids']" position="attributes">
+                    <attribute name="attrs">{'invisible': [('partner_ids','=',[])]}</attribute>
+                </xpath>
+
+            </field>
+        </record>
+
+        <record id="view_calendar_event_calendar_inherited" model="ir.ui.view">
+            <field name="name">calendar.event.calendar</field>
+            <field name="model">calendar.event</field>
+            <field name="inherit_id" ref="calendar.view_calendar_event_calendar"/>
+            <field name="arch" type="xml">
+
+                <xpath expr="//calendar" position="attributes">
+                    <attribute name="mode">month</attribute>
+                </xpath>
+
+                <xpath expr="//calendar/field[@name='partner_ids']" position="replace">
+                    <field name="partner_ids"/>
+                </xpath>
+
+            </field>
+        </record>
+
+        <record id="view_calendar_event_search_inherited" model="ir.ui.view">
+            <field name="name">calendar.event.search</field>
+            <field name="model">calendar.event</field>
+            <field name="inherit_id" ref="calendar.view_calendar_event_search"/>
+            <field name="arch" type="xml">
+
+                <xpath expr="//search/field[@name='privacy']" position="after">
+                    <field name="start_date"/>
+                    <field name="stop_date"/>
+                    <field name="location"/>
+                </xpath>
+
+                <xpath expr="//search/group" position="inside">
+                    <filter string="Start Date" domain="[]" context="{'group_by':'start_date'}"/>
+                    <filter string="Stop Date" domain="[]" context="{'group_by':'stop_date'}"/>
+                    <filter string="Location" domain="[]" context="{'group_by':'location'}"/>
+                </xpath>
+
+            </field>
+        </record>
+
+    </data>
+</odoo>

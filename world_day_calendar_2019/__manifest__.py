@@ -2,18 +2,18 @@
 # Copyright 2019 Demodoo IT Solutions
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
-    'name': "Cover News of Spain",
-    'version': '11.0.1.1.0',
-    'summary': """This module allows to follow easily the cover news of Spain. It uses 
-    our rss_feed_channel module. News can be readed in the Discuss menu.""",
+    'name': "World Day Calendar 2019",
+    'version': '11.0.1.0.0',
+    'summary': """This module loads the World Day calendar 2019 into the calendar.event model. It uses our calendar_event_base module.""",
     'category': 'Extra Tools',
     'author': 'Demodoo IT Solutions',
     'website': "https://demodoo.blogspot.com",
     'depends': [
-        'rss_feed_channel',
+        'calendar_event_base',
     ],
     'data': [
-        'data/mail_channel.xml',
+        'data/world_day_type.xml',
+        'data/world_day_calendar.xml',
     ],
     'license': "AGPL-3",
     'installable': True,

@@ -1,0 +1,163 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* world_day_calendar_2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 14:22+0000\n"
+"PO-Revision-Date: 2019-10-11 14:22+0000\n"
+"Last-Translator: Angel M. Ormaechea <demodoo@outlook.es>, 2019\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_25
+msgid "African Liberation Day"
+msgstr "Afriški Dan Osvoboditve"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_01
+msgid "April Fool's Day"
+msgstr "Prvi April"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_30
+msgid "Earth Hour"
+msgstr "Ura Zemlje"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13b
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_12_13
+msgid "Friday the 13th"
+msgstr "Petek 13"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_23
+msgid "International Celebrate Bisexuality Day"
+msgstr "Mednarodni Dan Praznovanja Biseksualnosti"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_26
+msgid "International Customs Day"
+msgstr "Mednarodni Carinski Dan"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_04_18
+msgid "International Day for Monuments and Sites"
+msgstr "Mednarodni Dan Spomenikov in Najdišč"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_19
+msgid "International Men's Day"
+msgstr "Mednarodni Dan Moških"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_12
+msgid "International Nurses Day"
+msgstr "Mednarodni Dan Medicinskih Sester"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_08_31
+msgid "International Overdose Awareness Day"
+msgstr "Mednarodni Dan Ozaveščenosti o Prevelikem Odmerjanju"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_07
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_13a
+msgid "International Programmers Day"
+msgstr "Mednarodni Dan Programerjev"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_01
+msgid "Self-Injury Awareness Day"
+msgstr "Dan Zavedanja Samopoškodb"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_20
+msgid "World Autoimmune / Autoinflammatory Arthritis Day"
+msgstr "Svetovni Dan Avtoimunskega / Avtoinflamatornega Artritisa"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_04
+msgid "World Braille Day"
+msgstr "Svetovni Dan Braillove Pisave"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_06
+msgid "World Cerebral Palsy Day"
+msgstr "Svetovni Dan Cerebralne Paralize"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_11
+msgid "World Day of the Sick"
+msgstr "Svetovni Dan Bolnih"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_29
+msgid "World Heart Day"
+msgstr "Svetovni Dan Srca"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_03_14
+msgid "World Kidney Day"
+msgstr "Svetovni Dan Ledvic"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_27
+msgid "World Leprosy Day"
+msgstr "Svetovni Dan Gobavosti"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_05_08
+msgid "World Ovarian Cancer Day"
+msgstr "Svetovni Dan Raka na Jajčnikih"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_12
+msgid "World Pneumonia Day"
+msgstr "Svetovni Dan Pljučnice"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_17
+msgid "World Prematurity Day"
+msgstr "Svetovni Dan Prezgodaj Rojenih Otrok"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_01_20
+msgid "World Religion Day"
+msgstr "Svetovni Dan Religije"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_09_04
+msgid "World Sexual Health Day"
+msgstr "Svetovni Dan Spolnega Zdravja"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_10
+msgid "World Sight Day"
+msgstr "Svetovni Dan Vida"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_29
+msgid "World Stroke Day"
+msgstr "Svetovni Dan Možganov"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_11_01
+msgid "World Vegan Day"
+msgstr "Svetovni Dan Veganov"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_10_01
+msgid "World Vegetarian Day"
+msgstr "Svetovni Dan Vegetarijancev"
+
+#. module: world_day_calendar_2019
+#: model:calendar.event,name:world_day_calendar_2019.World_Day_2019_02_02
+msgid "World Wetlands Day"
+msgstr "Svetovni Dan Mokrišč"
