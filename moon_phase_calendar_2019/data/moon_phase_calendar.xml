@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data noupdate="0">
+
+        <record id="Moon_Phase_2019_01_06" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-01-06 00:00:00</field>
+            <field name="stop">2019-01-06 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_01_14" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-01-14 00:00:00</field>
+            <field name="stop">2019-01-14 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_01_21" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-01-21 00:00:00</field>
+            <field name="stop">2019-01-21 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_01_27" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-01-27 00:00:00</field>
+            <field name="stop">2019-01-27 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_02_04" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-02-04 00:00:00</field>
+            <field name="stop">2019-02-04 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_02_12" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-02-12 00:00:00</field>
+            <field name="stop">2019-02-12 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_02_19" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-02-19 00:00:00</field>
+            <field name="stop">2019-02-19 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_02_26" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-02-26 00:00:00</field>
+            <field name="stop">2019-02-26 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_03_06" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-03-06 00:00:00</field>
+            <field name="stop">2019-03-06 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_03_14" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-03-14 00:00:00</field>
+            <field name="stop">2019-03-14 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_03_21" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-03-21 00:00:00</field>
+            <field name="stop">2019-03-21 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_03_28" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-03-28 00:00:00</field>
+            <field name="stop">2019-03-28 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_04_05" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-04-05 00:00:00</field>
+            <field name="stop">2019-04-05 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_04_12" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-04-12 00:00:00</field>
+            <field name="stop">2019-04-12 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_04_19" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-04-19 00:00:00</field>
+            <field name="stop">2019-04-19 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_04_27" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-04-27 00:00:00</field>
+            <field name="stop">2019-04-27 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_05_05" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-05-05 00:00:00</field>
+            <field name="stop">2019-05-05 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_05_12" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-05-12 00:00:00</field>
+            <field name="stop">2019-05-12 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_05_18" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-05-18 00:00:00</field>
+            <field name="stop">2019-05-18 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_05_26" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-05-26 00:00:00</field>
+            <field name="stop">2019-05-26 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_06_03" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-06-03 00:00:00</field>
+            <field name="stop">2019-06-03 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_06_10" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-06-10 00:00:00</field>
+            <field name="stop">2019-06-10 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_06_17" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-06-17 00:00:00</field>
+            <field name="stop">2019-06-17 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_06_25" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-06-25 00:00:00</field>
+            <field name="stop">2019-06-25 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_07_02" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-07-02 00:00:00</field>
+            <field name="stop">2019-07-02 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_07_09" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-07-09 00:00:00</field>
+            <field name="stop">2019-07-09 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_07_16" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-07-16 00:00:00</field>
+            <field name="stop">2019-07-16 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_07_25" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-07-25 00:00:00</field>
+            <field name="stop">2019-07-25 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_08_01" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-08-01 00:00:00</field>
+            <field name="stop">2019-08-01 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_08_07" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-08-07 00:00:00</field>
+            <field name="stop">2019-08-07 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_08_15" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-08-15 00:00:00</field>
+            <field name="stop">2019-08-15 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_08_23" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-08-23 00:00:00</field>
+            <field name="stop">2019-08-23 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_08_30" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-08-30 00:00:00</field>
+            <field name="stop">2019-08-30 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_09_06" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-09-06 00:00:00</field>
+            <field name="stop">2019-09-06 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_09_14" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-09-14 00:00:00</field>
+            <field name="stop">2019-09-14 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_09_22" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-09-22 00:00:00</field>
+            <field name="stop">2019-09-22 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_09_28" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-09-28 00:00:00</field>
+            <field name="stop">2019-09-28 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_10_05" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-10-05 00:00:00</field>
+            <field name="stop">2019-10-05 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_10_13" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-10-13 00:00:00</field>
+            <field name="stop">2019-10-13 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_10_21" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-10-21 00:00:00</field>
+            <field name="stop">2019-10-21 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_10_28" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-10-28 00:00:00</field>
+            <field name="stop">2019-10-28 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_11_04" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-11-04 00:00:00</field>
+            <field name="stop">2019-11-04 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_11_12" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-11-12 00:00:00</field>
+            <field name="stop">2019-11-12 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_11_19" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-11-19 00:00:00</field>
+            <field name="stop">2019-11-19 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_11_26" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-11-26 00:00:00</field>
+            <field name="stop">2019-11-26 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_12_04" model="calendar.event">
+            <field name="name">First Quarter &#x1f313;</field>
+            <field name="start">2019-12-04 00:00:00</field>
+            <field name="stop">2019-12-04 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_12_12" model="calendar.event">
+            <field name="name">Full Moon &#x1f315;</field>
+            <field name="start">2019-12-12 00:00:00</field>
+            <field name="stop">2019-12-12 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_12_19" model="calendar.event">
+            <field name="name">Last Quarter &#x1f317;</field>
+            <field name="start">2019-12-19 00:00:00</field>
+            <field name="stop">2019-12-19 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="Moon_Phase_2019_12_26" model="calendar.event">
+            <field name="name">New Moon &#x1f311;</field>
+            <field name="start">2019-12-26 00:00:00</field>
+            <field name="stop">2019-12-26 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('Moon_Phase_2019'))]"/>
+            <field name="location">World</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+    </data>
+</odoo>

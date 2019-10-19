@@ -1,0 +1,82 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* moon_phase_calendar_2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-18 14:18+0000\n"
+"PO-Revision-Date: 2019-10-18 14:18+0000\n"
+"Last-Translator: Angel M. Ormaechea <demodoo@outlook.es>, 2019\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: moon_phase_calendar_2019
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_01_14
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_02_12
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_03_14
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_04_12
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_05_12
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_06_10
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_07_09
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_08_07
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_09_06
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_10_05
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_11_04
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_12_04
+msgid "First Quarter 🌓"
+msgstr "Quarto Crescente 🌓"
+
+#. module: moon_phase_calendar_2019
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_01_21
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_02_19
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_03_21
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_04_19
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_05_18
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_06_17
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_07_16
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_08_15
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_09_14
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_10_13
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_11_12
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_12_12
+msgid "Full Moon 🌕"
+msgstr "Lua Cheia 🌕"
+
+#. module: moon_phase_calendar_2019
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_01_27
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_02_26
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_03_28
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_04_27
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_05_26
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_06_25
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_07_25
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_08_23
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_09_22
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_10_21
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_11_19
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_12_19
+msgid "Last Quarter 🌗"
+msgstr "Quarto Minguante 🌗"
+
+#. module: moon_phase_calendar_2019
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_01_06
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_02_04
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_03_06
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_04_05
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_05_05
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_06_03
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_07_02
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_08_01
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_08_30
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_09_28
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_10_28
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_11_26
+#: model:calendar.event,name:moon_phase_calendar_2019.Moon_Phase_2019_12_26
+msgid "New Moon 🌑"
+msgstr "Lua Nova 🌑"
+
