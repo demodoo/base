@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data noupdate="0">
+
+        <record id="General_Roman_Spain_2019_11_01" model="calendar.event">
+            <field name="name">&#10013; Todos los Santos</field>
+            <field name="start">2019-11-01 00:00:00</field>
+            <field name="stop">2019-11-01 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_02" model="calendar.event">
+            <field name="name">&#10013; Conmemoración de Todos los Difuntos</field>
+            <field name="start">2019-11-02 00:00:00</field>
+            <field name="stop">2019-11-02 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_03" model="calendar.event">
+            <field name="name">&#10013; San Martín de Porres</field>
+            <field name="start">2019-11-03 00:00:00</field>
+            <field name="stop">2019-11-03 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_04" model="calendar.event">
+            <field name="name">&#10013; San Carlos Borromeo</field>
+            <field name="start">2019-11-04 00:00:00</field>
+            <field name="stop">2019-11-04 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_09" model="calendar.event">
+            <field name="name">&#10013; Dedicación de la Basílica de Letrán</field>
+            <field name="start">2019-11-09 00:00:00</field>
+            <field name="stop">2019-11-09 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_10" model="calendar.event">
+            <field name="name">&#10013; San León el Magno</field>
+            <field name="start">2019-11-10 00:00:00</field>
+            <field name="stop">2019-11-10 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_11" model="calendar.event">
+            <field name="name">&#10013; San Martín de Tours</field>
+            <field name="start">2019-11-11 00:00:00</field>
+            <field name="stop">2019-11-11 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_12" model="calendar.event">
+            <field name="name">&#10013; San Josafat</field>
+            <field name="start">2019-11-12 00:00:00</field>
+            <field name="stop">2019-11-12 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_15" model="calendar.event">
+            <field name="name">&#10013; San Alberto Magno</field>
+            <field name="start">2019-11-15 00:00:00</field>
+            <field name="stop">2019-11-15 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_16" model="calendar.event">
+            <field name="name">&#10013; Santa Margarita de Escocia; Santa Gertrudis</field>
+            <field name="start">2019-11-16 00:00:00</field>
+            <field name="stop">2019-11-16 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_17" model="calendar.event">
+            <field name="name">&#10013; Santa Isabel de Hungría</field>
+            <field name="start">2019-11-17 00:00:00</field>
+            <field name="stop">2019-11-17 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_18" model="calendar.event">
+            <field name="name">&#10013; Dedicación de las Basílicas de los Santos Pedro y Pablo</field>
+            <field name="start">2019-11-18 00:00:00</field>
+            <field name="stop">2019-11-18 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_21" model="calendar.event">
+            <field name="name">&#10013; Presentación de la Santísima Virgen María</field>
+            <field name="start">2019-11-21 00:00:00</field>
+            <field name="stop">2019-11-21 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_22" model="calendar.event">
+            <field name="name">&#10013; Santa Cecilia</field>
+            <field name="start">2019-11-22 00:00:00</field>
+            <field name="stop">2019-11-22 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_23" model="calendar.event">
+            <field name="name">&#10013; San Clemente I; San Columbano</field>
+            <field name="start">2019-11-23 00:00:00</field>
+            <field name="stop">2019-11-23 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_24" model="calendar.event">
+            <field name="name">&#10013; San Andrés Dung-Lac y compañeros</field>
+            <field name="start">2019-11-24 00:00:00</field>
+            <field name="stop">2019-11-24 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_25" model="calendar.event">
+            <field name="name">&#10013; Santa Catalina de Alejandría</field>
+            <field name="start">2019-11-25 00:00:00</field>
+            <field name="stop">2019-11-25 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_11_30" model="calendar.event">
+            <field name="name">&#10013; San Andrés</field>
+            <field name="start">2019-11-30 00:00:00</field>
+            <field name="stop">2019-11-30 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+    </data>
+</odoo>

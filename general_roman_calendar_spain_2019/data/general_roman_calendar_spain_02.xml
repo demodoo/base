@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2019 Demodoo IT Solutions
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+-->
+<odoo>
+    <data noupdate="0">
+
+        <record id="General_Roman_Spain_2019_02_02" model="calendar.event">
+            <field name="name">&#10013; Presentación del Señor</field>
+            <field name="start">2019-02-02 00:00:00</field>
+            <field name="stop">2019-02-02 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_03" model="calendar.event">
+            <field name="name">&#10013; San Blas; San Oscar</field>
+            <field name="start">2019-02-03 00:00:00</field>
+            <field name="stop">2019-02-03 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_05" model="calendar.event">
+            <field name="name">&#10013; Santa Águeda</field>
+            <field name="start">2019-02-05 00:00:00</field>
+            <field name="stop">2019-02-05 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_06" model="calendar.event">
+            <field name="name">&#10013; San Pablo Miki y compañeros</field>
+            <field name="start">2019-02-06 00:00:00</field>
+            <field name="stop">2019-02-06 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_08" model="calendar.event">
+            <field name="name">&#10013; San Jerónimo Emiliani</field>
+            <field name="start">2019-02-08 00:00:00</field>
+            <field name="stop">2019-02-08 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_10" model="calendar.event">
+            <field name="name">&#10013; Santa Escolástica</field>
+            <field name="start">2019-02-10 00:00:00</field>
+            <field name="stop">2019-02-10 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_11" model="calendar.event">
+            <field name="name">&#10013; Nuestra Señora de Lourdes</field>
+            <field name="start">2019-02-11 00:00:00</field>
+            <field name="stop">2019-02-11 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_14" model="calendar.event">
+            <field name="name">&#10013; San Valentín; San Cirilo; San Metodio</field>
+            <field name="start">2019-02-14 00:00:00</field>
+            <field name="stop">2019-02-14 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_17" model="calendar.event">
+            <field name="name">&#10013; Santos Siete Fundadores de la Orden de los Servitas</field>
+            <field name="start">2019-02-17 00:00:00</field>
+            <field name="stop">2019-02-17 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_21" model="calendar.event">
+            <field name="name">&#10013; San Pedro Damián</field>
+            <field name="start">2019-02-21 00:00:00</field>
+            <field name="stop">2019-02-21 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_22" model="calendar.event">
+            <field name="name">&#10013; Cátedra de San Pedro</field>
+            <field name="start">2019-02-22 00:00:00</field>
+            <field name="stop">2019-02-22 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+        <record id="General_Roman_Spain_2019_02_23" model="calendar.event">
+            <field name="name">&#10013; San Policarpo</field>
+            <field name="start">2019-02-23 00:00:00</field>
+            <field name="stop">2019-02-23 00:00:00</field>
+            <field name="allday">True</field>
+            <field name="categ_ids" eval="[(4,ref('General_Roman_Spain_2019'))]"/>
+            <field name="location">Spain</field>
+            <field name="partner_ids" eval="[(5,0)]"/>
+        </record>
+
+    </data>
+</odoo>
