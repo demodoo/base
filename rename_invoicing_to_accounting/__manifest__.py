@@ -3,7 +3,7 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     'name': "Rename Invoicing to Accounting",
-    'version': '11.0.1.0.0',
+    'version': '11.0.1.1.0',
     'summary': """Rename the Invoicing main menu to Accounting.""",
     'category': 'Accounting',
     'author': 'Demodoo IT Solutions',
@@ -14,6 +14,7 @@
     'data': [
         'views/account_views.xml',
     ],
+    'post_init_hook': 'post_init_hook',
     'license': "AGPL-3",
     'installable': True,
     'auto_install': False,
