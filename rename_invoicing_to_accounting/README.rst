@@ -7,7 +7,7 @@ Rename the Invoicing main menu to Accounting.
 
 Installation
 ============
-- Install our custom addon and load your translation.
+- Install our custom addon.
 
 Credits
 =======
