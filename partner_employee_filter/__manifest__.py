@@ -5,7 +5,7 @@
     'name': "Partner Employee Filter",
     'version': '11.0.1.0.0',
     'summary': """This module add a new employee filter in Contacts menu.""",
-    'category': 'Hidden',
+    'category': 'Tools',
     'author': 'Demodoo IT Solutions',
     'website': "https://demodoo.blogspot.com",
     'depends': [
