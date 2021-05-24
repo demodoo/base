@@ -1,2 +1,2 @@
-# odoo-addons
-Odoo addons
+# base
+Odoo base addons
